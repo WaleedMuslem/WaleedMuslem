@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/waleedmuslem/">
   <img align="left" alt="waleed's LinkdeIN" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
-<a href="mailto: waleedmosllm2020@gmail.com">
+<a href="mailto:waleedmosllm2020@gmail.com">
   <img align="left" alt="waleed's Email" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" />
 </a>
 <a href="https://discord.com/users/906537751824990248">
