@@ -16,14 +16,14 @@
 
 Hi, I'm **Waleed Muslem** , a Full Stack Developer 🚀 from Yemen, currently, I'm a CS Student at Eszterházy Károly Catholic University 🙍🏽‍♂️ .
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Terraform and Express.js; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@Waleed_Muslem](https://www.linkedin.com/in/waleedmuslem/);
+- 👨🏽‍💻 I’m currently working on something cool :wink: ;
+- 🌱 I’m currently learning Terraform and Express.js ; 
+- 💬 Ask me about anything, I am happy to help ;
+- 📫 How to reach me: [@Waleed_Muslem](https://www.linkedin.com/in/waleedmuslem/) ;
 
 **Languages and Tools:**  
 
@@ -44,6 +44,13 @@ Hi, I'm **Waleed Muslem** , a Full Stack Developer 🚀 from Yemen, currently, I
 
 <details>
 <summary>📈 My GitHub Stats</summary>
+
+<br />
+
+<br />
+<br />
+
+<br />
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=WaleedMuslem&show_icons=true&theme=gotham" alt="WaleedMuslem" />
 
