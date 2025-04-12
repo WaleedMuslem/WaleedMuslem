@@ -14,7 +14,7 @@
 
 <br />
 
-Hi, I'm **Waleed Muslem** , a Full Stack Developer 🚀 from Yemen, currently, I'm a CS Student at Eszterházy Károly Catholic University 🙍🏽‍♂️ .
+Hi, I'm **Waleed Muslem** , a Full Stack Developer 🚀 from Yemen.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
   
