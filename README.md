@@ -21,12 +21,15 @@ Hi, I'm **Waleed Muslem** , a Full Stack Developer 🚀 from Yemen, currently, I
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink: ;
-- 🌱 I’m currently learning Terraform and Express.js ; 
+- 🌱 I’m currently learning AI and LLMs ; 
 - 💬 Ask me about anything, I am happy to help ;
 - 📫 How to reach me: [@Waleed_Muslem](https://www.linkedin.com/in/waleedmuslem/) ;
 
 **Languages and Tools:**  
 
+<code><img height="30" src="https://github.com/openai.png"></code> <!-- OpenAI -->
+<code><img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></code> <!-- Google Colab -->
+<code><img height="30" src="https://cdn.prod.website-files.com/657639ebfb91510f45654149/67cb2328a0f5afcb01adc404_66bbf2250478cce84c3c3760_66bbf21b7f0ee244a1589b75_c3635b59-a3d2-444a-b636-a9d0061dcdde.png"></code> <!-- Hugging Face -->
 <code><img height="30" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png"></code>
